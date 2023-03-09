@@ -63,6 +63,8 @@ After you're finished please remove all the comments and instructions!
 
 
 
+
+
 # 📖 [Vet_Clinic] <a name="about-project"></a>
 
 
@@ -96,6 +98,8 @@ After you're finished please remove all the comments and instructions!
 </details>
 
 
+### Key Features <a name="key-features"></a>
+
 
 ### Key Features <a name="key-features"></a>
 
@@ -106,6 +110,8 @@ After you're finished please remove all the comments and instructions!
 - **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
