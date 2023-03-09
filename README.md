@@ -62,7 +62,10 @@ After you're finished please remove all the comments and instructions!
 - [📝 License](#license)
 
 
-# 📖 [your_project_name] <a name="about-project"></a>
+
+
+
+# 📖 [Vet_Clinic] <a name="about-project"></a>
 
 
 **[your_project__name]** is a...
@@ -72,8 +75,9 @@ After you're finished please remove all the comments and instructions!
 ### Tech Stack <a name="tech-stack"></a>
 
 
+
 <details>
-  <summary>Client</summary>
+  <summary>PostqreSQL</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
@@ -97,14 +101,15 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 
+### Key Features <a name="key-features"></a>
+
+
+
 - **[key_feature_1]**
 - **[key_feature_2]**
 - **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 
@@ -191,6 +196,7 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+
 ## 👥 Authors <a name="authors"></a>
 
 
@@ -217,6 +223,7 @@ Example:
 - [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## 🤝 Contributing <a name="contributing"></a>
