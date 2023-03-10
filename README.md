@@ -62,7 +62,7 @@ After you're finished please remove all the comments and instructions!
 - [📝 License](#license)
 
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Vet Clinic Database <a name="about-project"></a>
 
 **[your_project__name]** is a...
 
