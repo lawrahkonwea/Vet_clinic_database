@@ -13,3 +13,50 @@ VALUES
 (9, 'Boarmon', '2005-06-07', 7, 'TRUE', 20.4),
 (10, 'Blossom', '1998-10-13', 3, 'TRUE', 17),
 (11, 'Ditto', '2022-05-14', 4, 'TRUE', 22);
+
+INSERT INTO owners (fullname, age)
+VALUES
+('Sam Smith', 34),
+('Jennifer Orwell', 19),
+('Bob', 45),
+('Melody', 77),
+('Dean Winchester', 14),
+('Jodie Whittaker', 38);
+
+INSERT INTO species (name)
+VALUES 
+('Pokemon'),
+('Digimon');
+
+UPDATE animals 
+SET species_id = (SELECT id FROM species WHERE name = 'Digimon')
+WHERE name LIKE '%mon';
+
+UPDATE animals 
+SET species_id = (SELECT id FROM species WHERE name = 'Pokemon')
+WHERE species_id IS NULL;
+
+UPDATE animals
+SET owner_id = (SELECT id FROM owners WHERE fullname = 'Sam Smith')
+WHERE name ='Agumon';
+
+UPDATE animals
+SET owner_id = (SELECT id FROM owners WHERE fullname = 'Jennifer')
+WHERE name IN ('Gabumon', 'Pikachu');
+
+UPDATE animals
+SET owner_id = (SELECT id FROM owners WHERE fullname = 'Bob')
+WHERE name IN ('Devimon', 'Plantmon');
+
+UPDATE animals
+SET owner_id = (SELECT id FROM owners WHERE fullname = 'Melody Pond')
+WHERE name IN ('Charmander', 'Squirtle', 'Blossom');
+
+UPDATE animals
+SET owner_id = (SELECT id FROM owners WHERE fullname = 'Dean Winchester')
+WHERE name IN ('Angemon', 'Boarmon');
+
+
+
+
+

@@ -63,8 +63,6 @@ After you're finished please remove all the comments and instructions!
 
 
 
-
-
 # 📖 [Vet_Clinic] <a name="about-project"></a>
 
 
@@ -73,7 +71,6 @@ After you're finished please remove all the comments and instructions!
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
 
 <details>
@@ -101,17 +98,11 @@ After you're finished please remove all the comments and instructions!
 ### Key Features <a name="key-features"></a>
 
 
-### Key Features <a name="key-features"></a>
-
-
-
 - **[key_feature_1]**
 - **[key_feature_2]**
 - **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -194,8 +185,6 @@ Example:
  -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 ## 👥 Authors <a name="authors"></a>
 
