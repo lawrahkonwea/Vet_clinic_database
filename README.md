@@ -37,7 +37,7 @@ After you're finished please remove all the comments and instructions!
 -->
 
 
-<!-- TABLE OF CONTENTS -->
+
 
 # 📗 Table of Contents
 
@@ -62,7 +62,9 @@ After you're finished please remove all the comments and instructions!
 - [📝 License](#license)
 
 
-# 📖 Vet Clinic Database <a name="about-project"></a>
+
+# 📖 [Vet_Clinic] <a name="about-project"></a>
+
 
 **[your_project__name]** is a...
 
@@ -72,7 +74,7 @@ After you're finished please remove all the comments and instructions!
 
 
 <details>
-  <summary>Client</summary>
+  <summary>PostqreSQL</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
   </ul>
@@ -101,7 +103,6 @@ After you're finished please remove all the comments and instructions!
 - **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -185,7 +186,6 @@ Example:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 👥 Authors <a name="authors"></a>
 
 
@@ -212,6 +212,7 @@ Example:
 - [ ] **[new_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 ## 🤝 Contributing <a name="contributing"></a>
