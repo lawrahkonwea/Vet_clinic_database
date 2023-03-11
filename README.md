@@ -76,7 +76,7 @@ Example command:
 
 👤 **Author1**
 
-- GitHub: @lawrahkonwea
+- GitHub: [@lawrahkonwea(https://github.com/lawrahkonwea)]
 - Twitter: @lawrah_xo
 - LinkedIn: @amakalaurakonwea
 
