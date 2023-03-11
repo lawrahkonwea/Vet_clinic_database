@@ -63,10 +63,10 @@ After you're finished please remove all the comments and instructions!
 
 
 
-# 📖 [Vet_Clinic] <a name="about-project"></a>
+# 📖 [Vet_Clinic_Database] <a name="about-project"></a>
 
 
-**[your_project__name]** is a...
+Vet Clinic Database is a plain SQL database to create the data structure for a vet clinic
 
 ## 🛠 Built With <a name="built-with"></a>
 
