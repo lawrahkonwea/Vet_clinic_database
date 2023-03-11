@@ -1,6 +1,6 @@
 <h2 align="center">Vet Clinic Database</h2>
 
-<!-- TABLE OF CONTENTS -->
+
 
 # 📗 Table of Contents
 
@@ -45,9 +45,11 @@ Vet Clinic Database is a plain SQL database to create the data structure for a v
 
 ### Key Features <a name="key-features"></a>
 
+
 - Table to Store Data
 - Data Sample
 - Whole Project Queries
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -71,6 +73,10 @@ Example command:
 ```
  -->
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## 👥 Authors <a name="authors"></a>
 
 
@@ -83,9 +89,7 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
 - [ ] Multiple Tables
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
