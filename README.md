@@ -76,9 +76,9 @@ Example command:
 
 👤 **Author1**
 
-- GitHub: [@lawrahkonwea(https://github.com/lawrahkonwea)]
-- Twitter: @lawrah_xo
-- LinkedIn: @amakalaurakonwea
+- GitHub:[@lawrahkonwea](https://github.com/lawrahkonwea)
+- Twitter: [@lawrah_xo](https://twitter.com/lawrah_xo)
+- LinkedIn: [Linkedin](https://linkedin.com/amakalaurakonwea)
 
 
 ## 🔭 Future Features <a name="future-features"></a>
