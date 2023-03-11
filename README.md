@@ -1,4 +1,4 @@
-<h2 style="textAlign:center">Vet Clinic Database</h2>
+<h2 align="center">Vet Clinic Database</h2>
 
 <!-- TABLE OF CONTENTS -->
 
